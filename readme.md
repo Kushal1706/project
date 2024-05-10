@@ -2,4 +2,4 @@
 
 This project was created from local system.
 
-creted by kushal s.
+creted by kushal S.
